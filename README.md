@@ -12,3 +12,21 @@ Proyek ini dibuat sebagai latihan dasar **Git**, **GitHub**, dan **VS Code**.
 1. Clone repository:
    ```bash
    git clone https://github.com/ibnujauzi/web-latihan.git
+# 🌐 Web Latihan Pertama - Ibnu Jauzi
+
+Proyek ini dibuat sebagai latihan dasar penggunaan **Git**, **GitHub**, dan **VS Code** dalam pengembangan web statis sederhana.
+
+---
+
+## ✨ Fitur
+- Tampilan dasar menggunakan HTML dan CSS
+- Struktur proyek rapi dan mudah dikembangkan
+- Contoh penerapan Git (commit, branch, merge, push)
+- Dilengkapi dokumentasi menggunakan Markdown
+
+---
+
+## 🚀 Cara Menjalankan
+1. Clone repository ini ke komputer kamu:
+   ```bash
+   git clone https://github.com/ibnujauzi/web-latihan.git
