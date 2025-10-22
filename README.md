@@ -30,3 +30,14 @@ Proyek ini dibuat sebagai latihan dasar penggunaan **Git**, **GitHub**, dan **VS
 1. Clone repository ini ke komputer kamu:
    ```bash
    git clone https://github.com/ibnujauzi/web-latihan.git
+## tentang Pembuat
+
+Ibnu Jauzi
+Mahasiswa Sistem Informasi di Universitas Bina Sarana Informatika (UBSI)
+Sedang belajar menjadi Full Stack Developer dengan fokus pada:
+
+Pengembangan Web (Front-End & Back-End)
+
+Git & GitHub
+
+Sistem Informasi dan Teknologi Web
